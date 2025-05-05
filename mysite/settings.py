@@ -125,7 +125,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False  # Set to False for production
 
-ALLOWED_HOSTS = ['yourusername.pythonanywhere.com']  # Replace with your actual PythonAnywhere domain
+ALLOWED_HOSTS = ['jbroeders.pythonanywhere.com']  # Replace with your actual PythonAnywhere domain
 # Static files (CSS, JavaScript, Images)
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'static'
